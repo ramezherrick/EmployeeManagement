@@ -1,0 +1,17 @@
+C:\Users\herri\source\repos\EmployeeManagement\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\herri\source\repos\EmployeeManagement\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\herri\source\repos\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.deps.json
+C:\Users\herri\source\repos\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.runtimeconfig.json
+C:\Users\herri\source\repos\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.runtimeconfig.dev.json
+C:\Users\herri\source\repos\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.dll
+C:\Users\herri\source\repos\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeManagement.pdb
+C:\Users\herri\source\repos\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.csprojAssemblyReference.cache
+C:\Users\herri\source\repos\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\herri\source\repos\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.AssemblyInfo.cs
+C:\Users\herri\source\repos\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\herri\source\repos\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.RazorAssemblyInfo.cache
+C:\Users\herri\source\repos\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.RazorAssemblyInfo.cs
+C:\Users\herri\source\repos\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.RazorTargetAssemblyInfo.cache
+C:\Users\herri\source\repos\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.dll
+C:\Users\herri\source\repos\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.pdb
+C:\Users\herri\source\repos\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.genruntimeconfig.cache
