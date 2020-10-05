@@ -1,0 +1,22 @@
+﻿@model Employee
+
+    <form action="../Home/Create" method="post">
+     
+        <div>
+            <label asp-for="Name"></label>
+            <input asp-for="Name" />
+        </div>
+        <div>
+            <label asp-for="Email"></label>
+            <input asp-for="Email" />
+        </div>
+        <div>
+            <label asp-for="Department" ></label>
+            <select asp-for="Department" asp-items="Html.GetEnumSelectList<Dept>()"></select>
+        </div>
+
+        <div> 
+        <button type="submit" class="btn btn-primary">Create</button>
+        </div>
+    </form>
+

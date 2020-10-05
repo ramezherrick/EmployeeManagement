@@ -1,23 +1,29 @@
 ﻿
-@model IEnumerable<EmployeeManagement.Models.Employee>
+@model IEnumerable<Employee>
 <h2>Index</h2>
+@{ 
+    ViewBag.Title= "Employee List";
+}
 
-<table>
-    <tr>
-        <th>ID</th>
-        <th>Name</th>
-        <th>Email</th>
-        <th>Department</th>
-    </tr>
+<div class="card-deck">
     @foreach (var e in Model)
     {
-        <tr>
-            <td>@e.Id</td>
-            <td>@e.Name</td>
-            <td>@e.Email</td>
-            <td>@e.Department</td>
-        </tr>
+    <div class="card m-3">
+        <div class="card-header">
+            <h3><center>@e.Name</center></h3>
+        </div>
+        <img class="card-img-top" src="~/images/No_image.jpg" asp-append-version="true" />
+        <div class="card-footer text-center">
+            <a asp-controller="Home" asp-action="Details" asp-route-id="@e.Id" class="btn btn-primary m-1">View</a>
+        </div>
+       
+    </div>
+      
+          
+           
     }
+</div>
+    
 
-</table>
+
 

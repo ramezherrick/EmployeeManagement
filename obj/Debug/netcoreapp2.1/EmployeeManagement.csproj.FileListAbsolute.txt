@@ -25,3 +25,8 @@ C:\Users\herri\source\repos\EmployeeManagement\bin\Debug\netcoreapp2.1\EmployeeM
 C:\Users\herri\source\repos\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.Views.pdb
 C:\Users\herri\source\repos\EmployeeManagement\obj\Debug\netcoreapp2.1\EmployeeManagement.csproj.CopyComplete
 C:\Users\herri\source\repos\EmployeeManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\herri\source\repos\EmployeeManagement\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\herri\source\repos\EmployeeManagement\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\herri\source\repos\EmployeeManagement\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\herri\source\repos\EmployeeManagement\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\herri\source\repos\EmployeeManagement\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.cshtml.g.cs

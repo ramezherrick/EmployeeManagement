@@ -1,18 +1,36 @@
-﻿<html xmlns="http://www.w3.org/1999/xhtml">
-@model EmployeeManagement.ViewModels.HomeDetailsViewModel
-<head>
-    <title></title>
-</head>
-<body>
-    <h1>@Model.PageTitle</h1>
+﻿
+@model HomeDetailsViewModel
 
-    <h3>
-        @Model.Employee.Name
+@{
+    ViewBag.Title= "Employee Details";
+}
+<h1>@Model.PageTitle</h1>
+<div class="row justify-content-center m-3">
+    <div class="col-sm-8">
+        <div class="card">
+            <div class="card-header">
+                <h1>@Model.Employee.Name</h1>
+            </div>
+            <div class="card-body text-center">
+                <h4>Employee Id: @Model.Employee.Id</h4>
+                <h4>Employee Email: @Model.Employee.Email</h4> 
+                <h4>Employee Department: @Model.Employee.Department</h4>
+            </div>
+            <div class="card-footer text-center">
+                <a asp-controller="Home" asp-action="Index"class="btn btn-primary">Back</a>
+            </div>
+        </div>
 
-        @Model.Employee.Email
+    </div>
+</div>
+<h3>
+    
 
-        @Model.Employee.Department
-    </h3>
-</body>
-</html>
+  
+</h3>
+
+@section Scripts
+{
+    <script src="~/js/CustomScript.js"></script>
+}
 
